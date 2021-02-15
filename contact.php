@@ -56,7 +56,7 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
         <p>Wanna get in touch. Email us at <a href="mailto:witwicky963@gmail.com">witwicky963@gmail.com</a></p>
 
         <footer>
-           <p style="text-align:center; font-size:0.8em;">&copy; Nulzeven Industries. All Rights Reserved.</p>
+           <p style="text-align:center; font-size:0.8em;">&copy; @copyright by 18111054_Fikri Kurnia Ramadhan_TIFRP18CNSA_UASWEB1</p>
         </footer>
 
       </div>

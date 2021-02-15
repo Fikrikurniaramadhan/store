@@ -58,7 +58,7 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
       <div class="small-12">
 
         <footer style="margin-top:10px;">
-           <p style="text-align:center; font-size:0.8em;">&copy; Nulzeven Industries. All Rights Reserved.</p>
+           <p style="text-align:center; font-size:0.8em;">&copy; @copyright by 18111054_Fikri Kurnia Ramadhan_TIFRP18CNSA_UASWEB1</p>
         </footer>
 
       </div>

@@ -94,7 +94,7 @@ include 'config.php';
         <center><p><input style="clear:both;" type="submit" class="button" value="Update"></p></center>
         </form>
         <footer style="margin-top:10px;">
-           <p style="text-align:center; font-size:0.8em;">&copy; Nulzeven Industries. All Rights Reserved.</p>
+           <p style="text-align:center; font-size:0.8em;">&copy; @copyright by 18111054_Fikri Kurnia Ramadhan_TIFRP18CNSA_UASWEB1</p>
         </footer>
 
       </div>
